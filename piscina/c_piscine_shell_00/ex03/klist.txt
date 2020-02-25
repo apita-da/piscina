@@ -1,0 +1,7 @@
+Credentials cache: API:4438
+        Principal: apita-da@42MADRID.COM
+
+  Issued                Expires               Principal
+Sep  2 14:47:24 2019  Sep  3 00:47:24 2019  krbtgt/42MADRID.COM@42MADRID.COM
+Sep  2 14:47:24 2019  Sep  3 00:47:24 2019  HTTP/student-storage.42madrid.com@42MADRID.COM
+Sep  2 15:31:56 2019  Sep  3 00:47:24 2019  host/vogsphere.42madrid.com@42MADRID.COM
